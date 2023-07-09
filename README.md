@@ -1,19 +1,5 @@
 # Regression_Model_GPU
 
----
-jupyter:
-  accelerator: GPU
-  colab:
-    gpuType: T4
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
-
 <div class="cell markdown" id="IX_WDhvpZQKg">
 
 # **Device Agnostic Regression Model using Pytorch**
